@@ -19,6 +19,12 @@ body {
 
 }
 
+.artigo_lado {
+clear: both;
+padding: 35px;
+margin: 10px;
+}
+
 .artigo {
 max-width: 60%;
 margin: 30px 10px;
