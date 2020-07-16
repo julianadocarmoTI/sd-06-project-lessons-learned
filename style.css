@@ -19,16 +19,17 @@ body {
 
 }
 
-.artigo_lado {
-clear: both;
-padding: 35px;
-margin: 10px;
-}
-
 .artigo {
-max-width: 60%;
+max-width: 80%;
 margin: 30px 10px;
 }
+
+.ladoesquerdo {
+float: left;
+max-width: 40%;
+display: inline-block;
+}
+
 
 #rodape {
 
