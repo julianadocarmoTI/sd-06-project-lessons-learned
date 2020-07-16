@@ -30,6 +30,10 @@ max-width: 40%;
 display: inline-block;
 }
 
+.tabela {
+margin: 35px 10px;
+padding-top: 45px;
+}
 
 #rodape {
 
